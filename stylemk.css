@@ -1,0 +1,44 @@
+.image {
+  text-align: center;
+}
+
+body {
+  background-color: #cad1dd;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  color: black;
+}
+.topics {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(54, 52, 52);
+  text-align: start;
+  letter-spacing: 2px;
+  text-indent: 50px;
+}
+
+.list {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  color: black;
+}
+
+.logo {
+  width: 250px;
+  height: auto;
+  margin: 20px auto 0px auto;
+}
